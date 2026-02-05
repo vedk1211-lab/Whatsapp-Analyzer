@@ -145,4 +145,9 @@ To analyze WhatsApp conversations and answer questions such as:
 This project is created for **educational and learning purposes**.
 All data used belongs to the respective chat owners.
 
+---
+
+## 🔗 Notebook Link
+https://colab.research.google.com/drive/1iUoG7PR_nExsOx2dxOa_Jpx9JcSqBi0L?usp=sharing
+---
 # Whatsapp-Analyzer
